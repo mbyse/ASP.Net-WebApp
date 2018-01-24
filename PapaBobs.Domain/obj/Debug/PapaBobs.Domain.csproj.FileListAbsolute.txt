@@ -1,0 +1,13 @@
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Domain\bin\Debug\EntityFramework.xml

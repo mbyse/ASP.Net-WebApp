@@ -1,0 +1,5 @@
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\bin\Release\PapaBobs.DTO.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\bin\Release\PapaBobs.DTO.pdb
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Release\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Release\PapaBobs.DTO.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Release\PapaBobs.DTO.pdb

@@ -1,0 +1,6 @@
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+c:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb

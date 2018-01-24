@@ -1,0 +1,13 @@
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\PapaBobs.Persistence.dll.config
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\PapaBobs.Persistence.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\PapaBobs.Persistence.pdb
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\EntityFramework.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\PapaBobs.DTO.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\PapaBobs.DTO.pdb
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\EntityFramework.xml
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\obj\Release\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\obj\Release\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\obj\Release\PapaBobs.Persistence.dll
+C:\Users\mbyse\documents\visual studio 2017\Projects\PapaBobsPizzaOrderingWebForm\PapaBobs.Persistence\obj\Release\PapaBobs.Persistence.pdb
